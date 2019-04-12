@@ -16,7 +16,7 @@ public class TestNGSample {
 	   @BeforeTest
 	   public void launchapp() {
 		   
-		   System.setProperty("webdriver.gecko.driver", "C:\\Users\\SK\\eclipse-workspace\\geckodriver.exe");
+		   System.setProperty("webdriver.gecko.driver", "C:\\Users\\SK\\git\\Selenium\\geckodriver.exe");
 		   
 		   driver = new FirefoxDriver();
 		   
