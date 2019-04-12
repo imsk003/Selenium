@@ -2,20 +2,20 @@
 <testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
   <reporter-output>
   </reporter-output>
-  <suite started-at="2019-03-30T11:15:09Z" name="Default suite" finished-at="2019-03-30T11:15:51Z" duration-ms="42278">
+  <suite started-at="2019-04-12T06:24:20Z" name="Default suite" finished-at="2019-04-12T06:24:59Z" duration-ms="38568">
     <groups>
     </groups>
-    <test started-at="2019-03-30T11:15:09Z" name="Default test" finished-at="2019-03-30T11:15:51Z" duration-ms="42278">
+    <test started-at="2019-04-12T06:24:20Z" name="Default test" finished-at="2019-04-12T06:24:59Z" duration-ms="38568">
       <class name="sk.learning.testng.TestNGSample">
-        <test-method is-config="true" signature="launchapp()[pri:0, instance:sk.learning.testng.TestNGSample@24269709]" started-at="2019-03-30T11:15:09Z" name="launchapp" finished-at="2019-03-30T11:15:44Z" duration-ms="35356" status="PASS">
+        <test-method is-config="true" signature="launchapp()[pri:0, instance:sk.learning.testng.TestNGSample@24269709]" started-at="2019-04-12T06:24:20Z" name="launchapp" finished-at="2019-04-12T06:24:54Z" duration-ms="33423" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- launchapp -->
-        <test-method signature="calculation()[pri:0, instance:sk.learning.testng.TestNGSample@24269709]" started-at="2019-03-30T11:15:44Z" name="calculation" finished-at="2019-03-30T11:15:46Z" duration-ms="2033" status="PASS">
+        <test-method signature="calculation()[pri:0, instance:sk.learning.testng.TestNGSample@24269709]" started-at="2019-04-12T06:24:54Z" name="calculation" finished-at="2019-04-12T06:24:55Z" duration-ms="1065" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- calculation -->
-        <test-method is-config="true" signature="terminatetest()[pri:0, instance:sk.learning.testng.TestNGSample@24269709]" started-at="2019-03-30T11:15:46Z" name="terminatetest" finished-at="2019-03-30T11:15:51Z" duration-ms="4802" status="PASS">
+        <test-method is-config="true" signature="terminatetest()[pri:0, instance:sk.learning.testng.TestNGSample@24269709]" started-at="2019-04-12T06:24:55Z" name="terminatetest" finished-at="2019-04-12T06:24:59Z" duration-ms="4011" status="PASS">
           <reporter-output>
           </reporter-output>
         </test-method> <!-- terminatetest -->
